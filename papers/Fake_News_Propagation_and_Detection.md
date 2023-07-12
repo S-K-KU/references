@@ -13,7 +13,7 @@ Fake News (and other related paper)
 1. [Fake News Propagation](#fake-news-propagation)
 2. [Rumor propagation](#rumor-propagation)
 3. [Confirmation Bias](#confirmation-bias)
-4. [Others (Echo Chamber, Propaganda, etc.)](https://github.com/Loy-rh/paper_research/blob/main/papers/others_with_no_details/Others_on_News_Propagation.md)
+4. [Others (Echo Chamber, Propaganda, etc.)](https://github.com/S-K-KU/references/blob/main/papers/others_with_no_details/Others_on_News_Propagation_and_Malicious_Behavior.md)
 
 ### Detection Methods 
 ------- Under Construction-------
