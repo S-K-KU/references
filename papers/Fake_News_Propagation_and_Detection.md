@@ -4,7 +4,7 @@ Fake News (and other related paper)
 ### Categories
 - [Findings on News Propagation](#findings-on-news-propagation)
 - [Detection Methods](#detection-methods)
-- [Datasets](https://github.com/Loy-rh/paper_research/blob/main/papers/Datasets.md)
+- [Datasets](https://github.com/S-K-KU/references/blob/main/papers/Datasets.md)
 - [Others (no details)](https://github.com/Loy-rh/paper_research/blob/main/papers/others_with_no_details/other_categories.md)
 
 ## Keywords
