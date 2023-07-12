@@ -147,4 +147,4 @@
 - Introducing memory into TGAT to capture more global graph evolution
 </details>  
 
-[Other Papers:](https://github.com/Loy-rh/paper_research/blob/main/papers/others_with_no_details/Temporal_Learning.md)  
+[Other Papers:](https://github.com/S-K-KU/references/blob/main/papers/others_with_no_details/Temporal_Learning.md)  
