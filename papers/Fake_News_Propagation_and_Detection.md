@@ -23,6 +23,7 @@ Fake News (and other related paper)
 2. [Rumor Detection](#rumor-detection)
 
 暫定版: papersフォルダ->関連研究.docxをダウンロード
+
 ---
 
 [//]: # (### Title &#40;Conference or Journal&#41;)
