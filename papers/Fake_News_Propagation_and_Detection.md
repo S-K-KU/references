@@ -21,6 +21,7 @@ Fake News (and other related paper)
    1. [Surveys](#surveys)
    2. [Methods](#methods)
 2. [Rumor Detection](#rumor-detection)
+
 暫定版: papersフォルダ->関連研究.docxをダウンロード
 ---
 
